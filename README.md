@@ -14,6 +14,7 @@ cd ccminer
 nano config.json
     4. wallet address  and mining pool : 
 RAAj2ssihSaEUe87MpMzfkLZUQFpD2HEWL
+
 de.vipor.net:5040
 
     5. save and start .sh
