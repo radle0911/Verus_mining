@@ -8,7 +8,7 @@ https://github.com/CypherpunkArmory/UserLAnd/releases/download/v2.8.3/app-releas
 
 2. Ubuntu :
 
-   1. Install miner:
+   1. Install miner u Ubuntu:
 ```
 curl -o- -k https://raw.githubusercontent.com/radle0911/Verus_mining/main/install.sh | bash
 ```   
