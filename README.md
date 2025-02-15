@@ -2,9 +2,9 @@
 
 Install: 
 1. App->ubuntu
-
+```
 https:// github.com/CypherpunkArmory/UserLAnd/releases/download/v2.8.3/app-release.apk
-
+```
 2. Ubuntu :
 
     1. Install miner:
