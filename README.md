@@ -13,6 +13,7 @@ cd ccminer
     3. Edit miner : 
 nano config.json
     4. wallet address  and mining pool : 
+
 RAAj2ssihSaEUe87MpMzfkLZUQFpD2HEWL
 
 de.vipor.net:5040
